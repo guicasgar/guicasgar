@@ -2,7 +2,7 @@
 - 👀 I’m interested in Economics, Financial, Statistics, Data, Philosophy and Psycology
 - 🌱 I’m currently learning Big data & Data Analytics
 - 💞️ I’m looking to collaborate on Data Analytics projects
-- 📫 How to reach me guicasgar@gmail.com // www.linkedin.com/in/guicasgar
+- 📫 How to reach me: guicasgar@gmail.com // www.linkedin.com/in/guicasgar
 - ⚡ Fun fact: Playing "Cajón", Biking in nature
 
 <!---
