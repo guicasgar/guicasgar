@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m @guicasgar
 - 👀 I’m interested in Economics, Financial, Statistics, Data, Philosophy and Psycology
 - 🌱 I’m currently learning Big data & Data Analytics
